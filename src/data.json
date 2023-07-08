@@ -1,7 +1,47 @@
 [
   {
     "id": 1,
-    "author": "Basho",
-    "content": "<p>The early summer rain, <br/> Gathering it and fast <br/> Mogami River. </p>"
+    "author": "Matsuo Basho",
+    "content": "<p>An old silent pond <br /> A frog jumps into the pond— <br /> Splash! Silence again.</p>"
+  },
+  {
+    "id": 2,
+    "author": "Yosa Buson",
+    "content": "<p>Winter seclusion— <br /> Listening, that evening, to <br /> Rain in the mountain.</p>"
+  },
+  {
+    "id": 3,
+    "author": "Kobayashi Issa",
+    "content": "<p>A world of dew, <br /> And within every dewdrop <br /> A world of struggle.</p>"
+  },
+  {
+    "id": 4,
+    "author": "Kobayashi Issa",
+    "content": "<p>Even in Kyoto— <br /> Hearing the cuckoo's cry— <br /> I long for Kyoto.</p>"
+  },
+  {
+    "id": 5,
+    "author": "Yosa Buson",
+    "content": "<p>The light of a candle <br /> Is transferred to another candle— <br /> Spring twilight.</p>"
+  },
+  {
+    "id": 6,
+    "author": "Matsuo Basho",
+    "content": "<p>The first cold shower— <br /> Even the monkey seems to want <br /> A little coat of straw.</p>"
+  },
+  {
+    "id": 7,
+    "author": "Kobayashi Issa",
+    "content": "<p>Light of a firefly— <br /> I give my love <br /> To the next village.</p>"
+  },
+  {
+    "id": 8,
+    "author": "Yosa Buson",
+    "content": "<p>Autumn moonlight— <br /> A worm digs silently <br /> Into the chestnut.</p>"
+  },
+  {
+    "id": 9,
+    "author": "Matsuo Basho",
+    "content": "<p>Temple bells die out. <br /> The fragrant blossoms remain. <br /> A perfect evening!</p>"
   }
 ]
